@@ -1,4 +1,5 @@
 Exercice 1 : Gestion des Produits
+--------------------------------------
 Dans cet exercice, nous avons créé une application Java pour la gestion des produits en utilisant Hibernate pour la persistance des données et MySQL comme base de données.
 
 Étapes du projet :
@@ -35,6 +36,7 @@ Affichage des produits dont le prix est supérieur à 100 DH.
 Affichage des produits commandés entre deux dates saisies au clavier.
 
 Exercice 2 : Gestion de Stock pour un Magasin de Vente de Produits Informatiques
+----------------------------------------------------------------------------------
 Dans cet exercice, nous avons développé une application pour la gestion de stock d’un magasin informatique en utilisant Hibernate pour la persistance des données et MySQL comme base de données.
 
 Étapes du projet :
@@ -63,6 +65,8 @@ Programmes de tests :
 Des programmes de test ont été créés pour vérifier les fonctionnalités de l'application, comme l'affichage des produits par catégorie, les produits commandés entre deux dates, et les produits commandés dans une commande.
 
 Exercice 3 : Application de Gestion de Projet
+--------------------------------------------------
+
 Cet exercice porte sur la création d’une application de gestion de projet permettant d’imputer le temps passé dans un projet à son coût global.
 
 Étapes du projet :
